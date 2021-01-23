@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I exist and yell at pickles
 Use the left arrow to go back!
